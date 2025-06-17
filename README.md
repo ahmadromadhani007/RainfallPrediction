@@ -1,1 +1,2 @@
-Anyone want's this projects, please to get permission to me !
+**RAINFALL PREDICTION USING LSTM STANDARD & ATTENTION MECHANISM
+**
